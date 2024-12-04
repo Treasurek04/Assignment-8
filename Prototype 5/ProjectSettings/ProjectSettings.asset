@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 00000000000000000000000000000000
+  productGUID: 83df6019bda9923479029d1599b2c39e
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -636,7 +636,7 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   cloudProjectId: b11b550c-9ec1-4ab9-af9f-0c7465db6ee6
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: Prototype 5
   organizationId: treasure04
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
